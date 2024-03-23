@@ -15,5 +15,5 @@ name = input("Enter your name: ")
 # 5. Ask for dream job (input)
 dream_job = input("Enter your dream job: ")
 # 6. Ask when to expect to graduate (in years)
-
+expected_graduation = input("When do you expect to graduate? (e.g. in 3 years): ")
 # 7. Display name, dream job, and message in a fancy way
