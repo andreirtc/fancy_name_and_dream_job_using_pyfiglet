@@ -13,7 +13,7 @@ from colorama import Fore, Style
 # 4. Ask for name (input)
 name = input("Enter your name: ")
 # 5. Ask for dream job (input)
-
+dream_job = input("Enter your dream job: ")
 # 6. Ask when to expect to graduate (in years)
 
 # 7. Display name, dream job, and message in a fancy way
