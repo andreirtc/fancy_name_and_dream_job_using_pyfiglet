@@ -1,6 +1,12 @@
 # Pseudocode
-# 1. Ask for name (input)
-name = input("Enter your name: ")
-# 2. Ask for dream job (input)
-# 3. Ask when to expect to graduate (in years)
-# 4. Display name, dream job, and message in a fancy way
+# 1. Install pyfiglet and colorama module
+    # pip install pyfiglet
+    # pip install colorama\
+# 2. Import pyfiglet (for fonts)
+# 3. Import colorama (for color and style)
+# 4. From pyfiglet import figlet and from colorama import foreground and style
+# 5. Ask for name (input)
+# 6. Ask for dream job (input)
+# 7. Ask when to expect to graduate (in years)
+# 8. 
+# 9. Display name, dream job, and message in a fancy way
